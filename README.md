@@ -1,11 +1,5 @@
 ### Oi! Me chamo Marina, tenho 19 anos. Estou no 4° período de Ciência da Computação, na UFS - Universidade Federal De Sergipe.
 
-Atualmente estudando desenvolvimento web, na área de front-end. É uma área que tenho bastante interesse, tenho afinidade com web-design e gosto da área em si. Busco evoluir nela para apresentar projetos cada vez mais desenvolvidos e consolidar minha carreira na área.
-
-Me comprometi em aprender e dominar HTML, CSS, javascript (linguagem a qual já tive contato na faculdade), e VUE js! 
-
-Futuramente pretendo estudar e me aprofundar em banco de dados.
-E também publicarei projetos da faculdade, tais quais utilizam linguagem C, entre outras.
 
 #
 ### Tecnologias que eu uso no meu dia
