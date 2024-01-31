@@ -1,5 +1,5 @@
 ### Hi, I'm Marina and im a computer science student. 
-🇧🇷 ,🇺🇸 
+🇧🇷 🇺🇸
 
 #
 ### Technologies I daily use
