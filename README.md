@@ -1,8 +1,8 @@
-### Oi! Me chamo Marina, tenho 19 anos. Estou no 4° período de Ciência da Computação, na UFS - Universidade Federal De Sergipe.
-
+### Hi, I'm Marina and im a computer science student. 
+🇧🇷 ,🇺🇸 
 
 #
-### Tecnologias que eu uso no meu dia
+### Technologies I daily use
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -10,7 +10,7 @@
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 #
-### Tecnologias futuras
+### Future Technologies
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
@@ -21,7 +21,7 @@
 [![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinamiw&show_icons=true&theme=radical)](https://github.com/marinamiw/github-readme-stats#radical)
 
 #
-### Contatos
+### Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marinamiw2@gmail.com)
 
