@@ -1,4 +1,4 @@
-### Oi! Me chamo Marina e sou estudante de ciência da computação, também trabalho como trainee de programadora de sistemas! :)
+### Oi! Me chamo Marina e sou desenvolvedora de software backend! :)
 🇧🇷 🇺🇸
 
 #
