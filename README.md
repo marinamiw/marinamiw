@@ -21,7 +21,8 @@
 
 #
 
-[![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinamiw&show_icons=true&theme=radical)](https://github.com/marinamiw/github-readme-stats#radical)
+![marinamiw's Stats](https://github-readme-stats.vercel.app/api?username=marinamiw&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![marinamiw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marinamiw&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 #
 ### Me contate :)
